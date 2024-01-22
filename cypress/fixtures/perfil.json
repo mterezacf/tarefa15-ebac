@@ -1,4 +1,6 @@
 {
   "usuario": "aluno_ebac@teste.com",
-  "senha": "teste@teste.com"
+  "senha": "teste@teste.com",
+  "nome": "Maria",
+  "sobrenome": "Tereza"
 }
