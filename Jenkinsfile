@@ -15,7 +15,7 @@ pipeline {
         stage('Executar testes') {
             steps {
                 bat '''NO_COLOR=1
-npm run cy:run '''
+                npm run cy:run '''
             }
         }
     }
